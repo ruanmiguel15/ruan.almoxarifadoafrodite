@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace AlmoxarifadoBackAPI.Controllers
 {
     [Route("[controller]")]
-    [ApiController]
+    [ApiController] 
     public class CategoriaController : ControllerBase
     {
         private readonly ICategoriaRepositorio _db;
