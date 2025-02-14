@@ -3164,11 +3164,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\ruan.almoxarifadoafrodite\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj",
       "projectName": "AlmoxarifadoBackAPI",
       "projectPath": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\ruan.almoxarifadoafrodite\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj",
       "packagesPath": "C:\\Users\\tarde.cetafest\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\ruan.almoxarifadoafrodite\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\tarde.cetafest\\Desktop\\projeto.almoxarifado.2025\\ruan.almoxarifadoafrodite\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj",
+      "projectName": "AlmoxarifadoBackAPI",
+      "projectPath": "C:\\Users\\tarde.cetafest\\Desktop\\projeto.almoxarifado.2025\\ruan.almoxarifadoafrodite\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj",
+      "packagesPath": "C:\\Users\\tarde.cetafest\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\tarde.cetafest\\Desktop\\projeto.almoxarifado.2025\\ruan.almoxarifadoafrodite\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\obj\\",
+>>>>>>> 8ccd6bf38b1c9b52ab11adef9fbf9bbbec5384b5
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

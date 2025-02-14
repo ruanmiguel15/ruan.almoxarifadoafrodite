@@ -2,24 +2,25 @@
 
 namespace AlmoxarifadoBackAPI.Repositorio
 {
-    public class CategoriaRepositorio : ICategoriaRepositorio
+    public class FornecedorRepositorio : IFornecedorRepositorio
     {
         private readonly Context _db;
 
-        public ICategoriaRepositorio(Context db)
+        public FornecedorRepositorio(Context db)
         {
             _db = db;
         }
 
         public void Add(Categoria categoria)
         {
-            
+
             _db.Categoria.Add(categoria);
             _db.SaveChanges();
         }
 
-        public List<Categoria> GetAll() { 
-          return _db.Categoria.ToList();
+        public List<Fornecedor> GetAll()
+        {
+            return _db.Categoria.ToList();
         }
 
     }
